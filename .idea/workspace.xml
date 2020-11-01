@@ -23,6 +23,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,7 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604202599278</updated>
       <workItem from="1604202600681" duration="47000" />
-      <workItem from="1604202673955" duration="1066000" />
+      <workItem from="1604202673955" duration="1106000" />
     </task>
     <servers />
   </component>
