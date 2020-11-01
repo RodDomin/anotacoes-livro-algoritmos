@@ -20,7 +20,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -37,7 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604202599278</updated>
       <workItem from="1604202600681" duration="47000" />
-      <workItem from="1604202673955" duration="2021000" />
+      <workItem from="1604202673955" duration="3278000" />
     </task>
     <servers />
   </component>
@@ -49,13 +49,13 @@
       <screen x="0" y="23" width="1440" height="820" />
     </state>
     <state x="443" y="166" key="NewPhpClassDialog/0.23.1440.820@0.23.1440.820" timestamp="1604204414583" />
-    <state x="543" y="363" key="NewPhpFileDialog" timestamp="1604204915665">
+    <state x="543" y="363" key="NewPhpFileDialog" timestamp="1604206383512">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state x="543" y="363" key="NewPhpFileDialog/0.23.1440.820@0.23.1440.820" timestamp="1604204915665" />
-    <state x="229" y="72" key="SettingsEditor" timestamp="1604202653425">
+    <state x="543" y="363" key="NewPhpFileDialog/0.23.1440.820@0.23.1440.820" timestamp="1604206383512" />
+    <state x="229" y="72" key="SettingsEditor" timestamp="1604205333235">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state x="229" y="72" key="SettingsEditor/0.23.1440.820@0.23.1440.820" timestamp="1604202653425" />
+    <state x="229" y="72" key="SettingsEditor/0.23.1440.820@0.23.1440.820" timestamp="1604205333235" />
   </component>
 </project>
